@@ -1,0 +1,714 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,2,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,241226209,,,4
+H5,2018,2018,2018,2,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19305181,,,0
+H5,2018,2018,2018,2,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22825278,,,0
+H5,2018,2018,2018,2,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,541127,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,20,Andorra,AND,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,667,,,0
+H5,2018,2018,2018,2,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,452537369,,,4
+H5,2018,2018,2018,2,0,2,Export,24,Angola,AGO,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,6080020,,,4
+H5,2018,2018,2018,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,367429754,,,4
+H5,2018,2018,2018,2,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,118592773,,,0
+H5,2018,2018,2018,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2382851159,,,4
+H5,2018,2018,2018,2,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1072914693,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,32,Argentina,ARG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1037981,,,0
+H5,2018,2018,2018,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,5852826771,,,4
+H5,2018,2018,2018,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,854883936,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,36,Australia,AUS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4900594,,,4
+H5,2018,2018,2018,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7937502526,,,4
+H5,2018,2018,2018,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8194936360,,,4
+H5,2018,2018,2018,2,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,385211502,,,4
+H5,2018,2018,2018,2,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,188160133,,,0
+H5,2018,2018,2018,2,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10590508,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,868633,,,0
+H5,2018,2018,2018,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,142384303,,,4
+H5,2018,2018,2018,2,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12148098,,,0
+H5,2018,2018,2018,2,0,3,Re-Export,51,Armenia,ARM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2744721,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,51,Armenia,ARM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1877,,,0
+H5,2018,2018,2018,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12554276906,,,4
+H5,2018,2018,2018,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,20182213882,,,4
+H5,2018,2018,2018,2,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28713072,,,0
+H5,2018,2018,2018,2,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,178769,,,0
+H5,2018,2018,2018,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,493584194,,,4
+H5,2018,2018,2018,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2970115,,,0
+H5,2018,2018,2018,2,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,473256,,,0
+H5,2018,2018,2018,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,613677205,,,4
+H5,2018,2018,2018,2,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,244203395,,,0
+H5,2018,2018,2018,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,111220987,,,4
+H5,2018,2018,2018,2,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22311743,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,72,Botswana,BWA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1409,,,0
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,7336461163,,,0
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3426431863,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,76,Brazil,BRA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,67489718,,,0
+H5,2018,2018,2018,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,32189726,,,4
+H5,2018,2018,2018,2,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,957669,,,0
+H5,2018,2018,2018,2,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,779275,,,0
+H5,2018,2018,2018,2,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,42702098,,,4
+H5,2018,2018,2018,2,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,921813,,,0
+H5,2018,2018,2018,2,0,3,Re-Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,891243,,,0
+H5,2018,2018,2018,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1703371803,,,4
+H5,2018,2018,2018,2,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,990765364,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,808459770,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,59812103,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,53023,,,0
+H5,2018,2018,2018,2,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1691283200,,,4
+H5,2018,2018,2018,2,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1084526100,,,4
+H5,2018,2018,2018,2,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,567457593,,,4
+H5,2018,2018,2018,2,0,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,197547535,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19235,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,16996564649,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13612306095,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,457893602,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,80755566,,,0
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2599263893,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,460653188,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,152,Chile,CHL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,171558,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,74867229916,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,80135877181,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,156,China,CHN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1874844430,,,4
+H5,2018,2018,2018,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,2506142601,,,4
+H5,2018,2018,2018,2,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1532967345,,,4
+H5,2018,2018,2018,2,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3549184,,,0
+H5,2018,2018,2018,2,0,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9158,,,0
+H5,2018,2018,2018,2,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,47100529,,,4
+H5,2018,2018,2018,2,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,669789,,,0
+H5,2018,2018,2018,2,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1336724825,,,4
+H5,2018,2018,2018,2,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,367070316,,,4
+H5,2018,2018,2018,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1213094338,,,4
+H5,2018,2018,2018,2,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,486972905,,,4
+H5,2018,2018,2018,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,222138831,,,4
+H5,2018,2018,2018,2,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,27842564,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3050477,,,0
+H5,2018,2018,2018,2,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9780400605,,,4
+H5,2018,2018,2018,2,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,7099239730,,,4
+H5,2018,2018,2018,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4244022695,,,4
+H5,2018,2018,2018,2,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2745868708,,,4
+H5,2018,2018,2018,2,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1511692288,,,4
+H5,2018,2018,2018,2,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,339666348,,,4
+H5,2018,2018,2018,2,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1140683445,,,4
+H5,2018,2018,2018,2,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,121157452,,,4
+H5,2018,2018,2018,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,693380318,,,4
+H5,2018,2018,2018,2,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,364873903,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,487123,,,0
+H5,2018,2018,2018,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,811774672,,,4
+H5,2018,2018,2018,2,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,434547812,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,233,Estonia,EST,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15992397,,,0
+H5,2018,2018,2018,2,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,114451834,,,4
+H5,2018,2018,2018,2,0,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6312993,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,242,Fiji,FJI,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2872523,,,0
+H5,2018,2018,2018,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2602455774,,,4
+H5,2018,2018,2018,2,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2599159588,,,4
+H5,2018,2018,2018,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,25962622220,,,4
+H5,2018,2018,2018,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22550933803,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,251,France,FRA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,322546084,,,4
+H5,2018,2018,2018,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,49005151409,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,65637543033,,,4
+H5,2018,2018,2018,2,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,584649498,,,4
+H5,2018,2018,2018,2,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,204499734,,,0
+H5,2018,2018,2018,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2131532039,,,4
+H5,2018,2018,2018,2,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1392128878,,,4
+H5,2018,2018,2018,2,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17046976,,,4
+H5,2018,2018,2018,2,0,2,Export,304,Greenland,GRL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15936,,,0
+H5,2018,2018,2018,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1138820326,,,4
+H5,2018,2018,2018,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,325663637,,,4
+H5,2018,2018,2018,2,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,430352779,,,4
+H5,2018,2018,2018,2,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,116789917,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9705541727,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10040925731,,,4
+H5,2018,2018,2018,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5584978393,,,4
+H5,2018,2018,2018,2,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4786337470,,,4
+H5,2018,2018,2018,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,188946703,,,4
+H5,2018,2018,2018,2,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23700369,,,4
+H5,2018,2018,2018,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9210566829,,,4
+H5,2018,2018,2018,2,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2587555664,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1187137,,,0
+H5,2018,2018,2018,2,0,1,Import,364,Iran,IRN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1283768238,,,4
+H5,2018,2018,2018,2,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5551468836,,,0
+H5,2018,2018,2018,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3107027290,,,4
+H5,2018,2018,2018,2,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1709368693,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,372,Ireland,IRL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1003378,,,0
+H5,2018,2018,2018,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,2854221000,,,4
+H5,2018,2018,2018,2,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,2932135000,,,4
+H5,2018,2018,2018,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22159154258,,,4
+H5,2018,2018,2018,2,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22742133647,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,381,Italy,ITA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,160697892,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,381,Italy,ITA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,90469368,,,0
+H5,2018,2018,2018,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,460590613,,,4
+H5,2018,2018,2018,2,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,151965961,,,0
+H5,2018,2018,2018,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,213948109,,,4
+H5,2018,2018,2018,2,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5949093,,,4
+H5,2018,2018,2018,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16901855099,,,4
+H5,2018,2018,2018,2,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,26134306547,,,4
+H5,2018,2018,2018,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1244973122,,,4
+H5,2018,2018,2018,2,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,108260865,,,4
+H5,2018,2018,2018,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,734055213,,,0
+H5,2018,2018,2018,2,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,270425286,,,0
+H5,2018,2018,2018,2,0,3,Re-Export,400,Jordan,JOR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,102776448,,,0
+H5,2018,2018,2018,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11813403317,,,4
+H5,2018,2018,2018,2,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,34914801198,,,4
+H5,2018,2018,2018,2,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,857415429,,,4
+H5,2018,2018,2018,2,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,811789572,,,0
+H5,2018,2018,2018,2,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,174853988,,,4
+H5,2018,2018,2018,2,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31856022,,,4
+H5,2018,2018,2018,2,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,133134093,,,4
+H5,2018,2018,2018,2,0,2,Export,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10902676,,,4
+H5,2018,2018,2018,2,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,638376425,,,4
+H5,2018,2018,2018,2,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,177140080,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,366071,,,0
+H5,2018,2018,2018,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,735541203,,,4
+H5,2018,2018,2018,2,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,393553608,,,4
+H5,2018,2018,2018,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1629907293,,,4
+H5,2018,2018,2018,2,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2083574115,,,4
+H5,2018,2018,2018,2,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1363707363,,,4
+H5,2018,2018,2018,2,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1487486590,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3699519,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25240517,,,4
+H5,2018,2018,2018,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,77633660,,,4
+H5,2018,2018,2018,2,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2424956,,,0
+H5,2018,2018,2018,2,0,3,Re-Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2114404,,,0
+H5,2018,2018,2018,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,131646727,,,4
+H5,2018,2018,2018,2,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16432209,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12867093,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,128367,,,0
+H5,2018,2018,2018,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8763830963,,,4
+H5,2018,2018,2018,2,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9395071542,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3063413,,,0
+H5,2018,2018,2018,2,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,96474911,,,4
+H5,2018,2018,2018,2,0,2,Export,462,Maldives,MDV,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,71689,,,4
+H5,2018,2018,2018,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,195666492,,,4
+H5,2018,2018,2018,2,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,82529144,,,4
+H5,2018,2018,2018,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,163989669,,,4
+H5,2018,2018,2018,2,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,46350088,,,0
+H5,2018,2018,2018,2,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7641658590,,,4
+H5,2018,2018,2018,2,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22414684205,,,4
+H5,2018,2018,2018,2,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,126634368,,,4
+H5,2018,2018,2018,2,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,283407,,,4
+H5,2018,2018,2018,2,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,95172317,,,4
+H5,2018,2018,2018,2,0,2,Export,499,Montenegro,MNE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3240698,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2906,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2111635434,,,4
+H5,2018,2018,2018,2,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,210589024,,,4
+H5,2018,2018,2018,2,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,152987182,,,4
+H5,2018,2018,2018,2,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2609809,,,4
+H5,2018,2018,2018,2,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,843438537,,,4
+H5,2018,2018,2018,2,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,692724293,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,512,Oman,OMN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,39136217,,,0
+H5,2018,2018,2018,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,197364145,,,4
+H5,2018,2018,2018,2,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,47296558,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,516,Namibia,NAM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,41417594,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,516,Namibia,NAM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4491,,,0
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16086946157,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,26141049113,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,1611557560,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,356202811,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23007271,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1414334,,,4
+H5,2018,2018,2018,2,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,316742619,,,4
+H5,2018,2018,2018,2,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11384202,,,0
+H5,2018,2018,2018,2,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31771095,,,4
+H5,2018,2018,2018,2,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1406089,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2586402675,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,499123779,,,4
+H5,2018,2018,2018,2,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4386750,,,0
+H5,2018,2018,2018,2,0,2,Export,585,Palau,PLW,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6010,,,0
+H5,2018,2018,2018,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2488577773,,,4
+H5,2018,2018,2018,2,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,307810628,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,509723,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16291261,,,0
+H5,2018,2018,2018,2,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,479908595,,,4
+H5,2018,2018,2018,2,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,106068481,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,2248931667,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,526421956,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,604,Peru,PER,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,166354,,,0
+H5,2018,2018,2018,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15747279711,,,4
+H5,2018,2018,2018,2,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13043686242,,,4
+H5,2018,2018,2018,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,4571882987,,,4
+H5,2018,2018,2018,2,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3858830342,,,4
+H5,2018,2018,2018,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5202240601,,,4
+H5,2018,2018,2018,2,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,1850829248,,,4
+H5,2018,2018,2018,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9764012707,,,4
+H5,2018,2018,2018,2,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3171711041,,,4
+H5,2018,2018,2018,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,78270349,,,0
+H5,2018,2018,2018,2,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3291462,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2180756,,,0
+H5,2018,2018,2018,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1430093514,,,4
+H5,2018,2018,2018,2,0,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,965321810,,,4
+H5,2018,2018,2018,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28373430,,,4
+H5,2018,2018,2018,2,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,144152,,,0
+H5,2018,2018,2018,2,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7652,,,0
+H5,2018,2018,2018,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15187643656,,,4
+H5,2018,2018,2018,2,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7865331283,,,4
+H5,2018,2018,2018,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8722820770,,,4
+H5,2018,2018,2018,2,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15943384537,,,4
+H5,2018,2018,2018,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,3851854406,,,4
+H5,2018,2018,2018,2,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2813271735,,,4
+H5,2018,2018,2018,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15299978299,,,4
+H5,2018,2018,2018,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4186122356,,,4
+H5,2018,2018,2018,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,1953338343,,,4
+H5,2018,2018,2018,2,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1605907338,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2645195,,,0
+H5,2018,2018,2018,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2819257589,,,0
+H5,2018,2018,2018,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1439203174,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,42744985,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,474801,,,0
+H5,2018,2018,2018,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,270885528,,,4
+H5,2018,2018,2018,2,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7677864,,,0
+H5,2018,2018,2018,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,13205894189,,,4
+H5,2018,2018,2018,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13228713385,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,724,Spain,ESP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,51060344,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,724,Spain,ESP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,8460596,,,0
+H5,2018,2018,2018,2,0,1,Import,729,Sudan,SDN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,357613692,,,4
+H5,2018,2018,2018,2,0,2,Export,729,Sudan,SDN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3734641,,,0
+H5,2018,2018,2018,2,0,3,Re-Export,729,Sudan,SDN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9751,,,0
+H5,2018,2018,2018,2,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,74911645,,,4
+H5,2018,2018,2018,2,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8390287,,,0
+H5,2018,2018,2018,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5776057839,,,4
+H5,2018,2018,2018,2,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5567787445,,,4
+H5,2018,2018,2018,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,6953123896,,,4
+H5,2018,2018,2018,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5553867280,,,4
+H5,2018,2018,2018,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9598176561,,,4
+H5,2018,2018,2018,2,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14661415143,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,764,Thailand,THA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7293483,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,764,Thailand,THA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,135921495,,,4
+H5,2018,2018,2018,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,113203897,,,0
+H5,2018,2018,2018,2,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,101395880,,,0
+H5,2018,2018,2018,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4879249290,,,4
+H5,2018,2018,2018,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5489972383,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1238478476,,,0
+H5,2018,2018,2018,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1382970680,,,4
+H5,2018,2018,2018,2,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,526169777,,,0
+H5,2018,2018,2018,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12938124382,,,4
+H5,2018,2018,2018,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6045184638,,,4
+H5,2018,2018,2018,2,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,386503610,,,4
+H5,2018,2018,2018,2,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,32373930,,,0
+H5,2018,2018,2018,2,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,375425101,,,4
+H5,2018,2018,2018,2,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,112257204,,,4
+H5,2018,2018,2018,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,19451945622,,,4
+H5,2018,2018,2018,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12385306376,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9636244,,,4
+H5,2018,2018,2018,2,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,491061219,,,4
+H5,2018,2018,2018,2,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,165450329,,,4
+H5,2018,2018,2018,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,61847820860,,,4
+H5,2018,2018,2018,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,66556823218,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3785473545,,,0
+H5,2018,2018,2018,2,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,482149398,,,4
+H5,2018,2018,2018,2,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,257950588,,,4
+H5,2018,2018,2018,2,0,4,Re-Import,858,Uruguay,URY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,157566,,,0
+H5,2018,2018,2018,2,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,573903080,,,4
+H5,2018,2018,2018,2,0,2,Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,454842146,,,4
+H5,2018,2018,2018,2,0,3,Re-Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5613,,,0
+H5,2018,2018,2018,2,0,4,Re-Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,60564,,,0
+H5,2018,2018,2018,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,110077293,,,4
+H5,2018,2018,2018,2,0,2,Export,887,Yemen,YEM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12514,,,0
+H5,2018,2018,2018,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,316468726,,,4
+H5,2018,2018,2018,2,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16996715,,,4
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,5,,,,5,,21,,,0
+H5,2018,2018,2018,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1061790,,,,1061790,,260004,,,0
+H5,2018,2018,2018,4,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,700433,,,,,,2155813,,,6
+H5,2018,2018,2018,4,0,2,Export,24,Angola,AGO,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,272855,,,,272855,,133902,,,6
+H5,2018,2018,2018,4,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4041242,,,,4041242,,1647736,,,0
+H5,2018,2018,2018,4,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,19000,,,,19000,,2850,,,0
+H5,2018,2018,2018,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,39010,,,,39010,,22053,,,0
+H5,2018,2018,2018,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,13253886,,,,13253886,,8324799,,,6
+H5,2018,2018,2018,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,153831432,,,,153831432,,32652587,,,6
+H5,2018,2018,2018,4,0,4,Re-Import,36,Australia,AUS,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,17870,,,,17870,,9148,,,0
+H5,2018,2018,2018,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,198934639,,,,198934639,,58424869,,,6
+H5,2018,2018,2018,4,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,177370629,,,,177370629,,92256641,,,6
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,716340,,,,716340,,401872,,,0
+H5,2018,2018,2018,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,826000,,,,826000,,388783,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,40004,,,,40004,,5421,,,0
+H5,2018,2018,2018,4,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,169382,,,,169382,,59698,,,0
+H5,2018,2018,2018,4,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,205646371,,,,205646371,,107461263,,,6
+H5,2018,2018,2018,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,392392411,,,,392392411,,140286217,,,0
+H5,2018,2018,2018,4,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,107,,,,107,,1989,,,0
+H5,2018,2018,2018,4,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1,,,,1,,50,,,0
+H5,2018,2018,2018,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,392252,,,,392549,,192839,,,0
+H5,2018,2018,2018,4,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,865796,,,,865796,,301981,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,44000,,,,44000,,4400,,,0
+H5,2018,2018,2018,4,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2201618,,,,2201618,,718720,,,6
+H5,2018,2018,2018,4,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,6048294,,,,6048294,,2039140,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,2262497,,2644615,,,6
+H5,2018,2018,2018,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1437110,,,,792642,,186439,,,6
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4592851,,,,,,2449858,,,0
+H5,2018,2018,2018,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2271050,,,,2295700,,1562281,,,6
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,156332,,,,156332,,59423,,,0
+H5,2018,2018,2018,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,466169,,,,466169,,87791,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,37800,,,,37800,,2219,,,0
+H5,2018,2018,2018,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,124762,,,,124762,,261725,,,6
+H5,2018,2018,2018,4,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,355795,,,,355795,,69525,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,333795,,,,333795,,59373,,,0
+H5,2018,2018,2018,4,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,44989006,,,,44989006,,10359237,,,0
+H5,2018,2018,2018,4,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,12542443,,,,12542443,,6761782,,,0
+H5,2018,2018,2018,4,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,3299227,,,,3299227,,2917882,,,6
+H5,2018,2018,2018,4,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,11549233,,,,11549233,,11084333,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,250,,,,250,,444,,,0
+H5,2018,2018,2018,4,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4895706,,,,4895706,,2915800,,,0
+H5,2018,2018,2018,4,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,9650629,,,,9650629,,4134100,,,0
+H5,2018,2018,2018,4,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,584785,,,,584785,,256677,,,6
+H5,2018,2018,2018,4,0,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4446162,,,,4446162,,1885329,,,6
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,141021180,,,,141021180,,73566561,,,0
+H5,2018,2018,2018,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,158115806,,,,158115806,,71618091,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,874951,,,,874951,,674555,,,0
+H5,2018,2018,2018,4,0,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,313123,,,,313123,,85720,,,0
+H5,2018,2018,2018,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,7746473,,,,7746473,,6638554,,,6
+H5,2018,2018,2018,4,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,9102029,,,,9102029,,3317187,,,6
+H5,2018,2018,2018,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,51604609,,,,51604609,,39036264,,,0
+H5,2018,2018,2018,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,67154999,,,6
+H5,2018,2018,2018,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,8209967,,,,8209967,,1553112,,,0
+H5,2018,2018,2018,4,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2592857,,,,2592857,,1008547,,,0
+H5,2018,2018,2018,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,25118,,,,25118,,17658,,,0
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,69,,,,69,,106,,,0
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,25000,,,,25000,,2249,,,0
+H5,2018,2018,2018,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,7103875,,,,7103875,,2949596,,,0
+H5,2018,2018,2018,4,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,7900908,,,,7900908,,3011902,,,0
+H5,2018,2018,2018,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,22909589,,,,22909589,,5944026,,,6
+H5,2018,2018,2018,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,22267206,,,,22267206,,7282857,,,0
+H5,2018,2018,2018,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,313541,,,,313541,,42264,,,0
+H5,2018,2018,2018,4,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,8198115,,,,8198115,,1998818,,,6
+H5,2018,2018,2018,4,0,3,Re-Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,923,,,,923,,369,,,0
+H5,2018,2018,2018,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,160459678,,,,,,23900857,,,6
+H5,2018,2018,2018,4,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,114964986,,,,114964986,,40293352,,,6
+H5,2018,2018,2018,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,83623172,,,,83623172,,20619686,,,6
+H5,2018,2018,2018,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,55268346,,,,55268346,,18117324,,,6
+H5,2018,2018,2018,4,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4854392,,,,4854392,,2080722,,,6
+H5,2018,2018,2018,4,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,16758420,,,,16758420,,9265773,,,0
+H5,2018,2018,2018,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,8421769,,,,8125518,,3664679,,,0
+H5,2018,2018,2018,4,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,5410420,,,,5385497,,3830391,,,0
+H5,2018,2018,2018,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,7151272,,,,,,4590972,,,6
+H5,2018,2018,2018,4,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,9699443,,,,9699443,,5651668,,,0
+H5,2018,2018,2018,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2807858,,,,2807858,,867993,,,0
+H5,2018,2018,2018,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,14052197,,,,14052197,,5896810,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,233,Estonia,EST,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,128250,,,,128250,,22642,,,0
+H5,2018,2018,2018,4,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,3823,,,,3823,,7411,,,0
+H5,2018,2018,2018,4,0,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1269033,,,,1269033,,141675,,,0
+H5,2018,2018,2018,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,3862391,,,,3862391,,3792179,,,6
+H5,2018,2018,2018,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,21575102,,,,,,5974499,,,6
+H5,2018,2018,2018,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,142582353,,,,142582353,,73077848,,,6
+H5,2018,2018,2018,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,442473799,,,,442473799,,172178126,,,6
+H5,2018,2018,2018,4,0,4,Re-Import,251,France,FRA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1166583,,,,1166583,,708769,,,6
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,468022146,,,,468022146,,156536189,,,6
+H5,2018,2018,2018,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1048687294,,,,1048687294,,414690971,,,6
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,5936183,,,,5936183,,1108248,,,0
+H5,2018,2018,2018,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,66038,,,,66038,,7558,,,0
+H5,2018,2018,2018,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,24717946,,,,24717946,,9357646,,,6
+H5,2018,2018,2018,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,53005485,,,,53005485,,16937598,,,0
+H5,2018,2018,2018,4,0,2,Export,304,Greenland,GRL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,120500,,,,120500,,15797,,,0
+H5,2018,2018,2018,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2666816,,,,2666816,,2068569,,,0
+H5,2018,2018,2018,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,10349357,,,,10349357,,2703370,,,0
+H5,2018,2018,2018,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1103033,,,,1103033,,381919,,,0
+H5,2018,2018,2018,4,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4207379,,,,4207379,,2853435,,,0
+H5,2018,2018,2018,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,598046363,,,,598046363,,243632360,,,6
+H5,2018,2018,2018,4,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,287764630,,,,287764630,,95129159,,,6
+H5,2018,2018,2018,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,6354315,,,6
+H5,2018,2018,2018,4,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,12058330,,,0
+H5,2018,2018,2018,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,76,,,,76,,2480,,,6
+H5,2018,2018,2018,4,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,8560617,,,,8560617,,2859923,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,320451809,,,,320451809,,102368436,,,6
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,98516368,,,,98516368,,44342853,,,6
+H5,2018,2018,2018,4,0,1,Import,364,Iran,IRN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2731068,,,,2731068,,566522,,,0
+H5,2018,2018,2018,4,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,21047404,,,,21047404,,14261354,,,0
+H5,2018,2018,2018,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,86737316,,,,86737316,,75065165,,,6
+H5,2018,2018,2018,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,44926976,,,,,,14831023,,,6
+H5,2018,2018,2018,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4340429,,,,4340429,,2304000,,,6
+H5,2018,2018,2018,4,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,15991950,,,,15991950,,6276000,,,6
+H5,2018,2018,2018,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,109447225,,,0
+H5,2018,2018,2018,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,213265260,,,,213265260,,75945914,,,6
+H5,2018,2018,2018,4,0,4,Re-Import,381,Italy,ITA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,,,20128,,,0
+H5,2018,2018,2018,4,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1039960,,,,1039960,,107120,,,0
+H5,2018,2018,2018,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,70874,,,,70874,,178759,,,0
+H5,2018,2018,2018,4,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,3915866,,,,3915866,,2093018,,,0
+H5,2018,2018,2018,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4770298,,,,4770298,,3348392,,,0
+H5,2018,2018,2018,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1008053497,,,,1008053497,,393628041,,,0
+H5,2018,2018,2018,4,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,778790,,,,778790,,697660,,,0
+H5,2018,2018,2018,4,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,6245106,,,,6245106,,1063892,,,0
+H5,2018,2018,2018,4,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,252876,,,,252876,,145967,,,0
+H5,2018,2018,2018,4,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1594148,,,,1594148,,534378,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,400,Jordan,JOR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,25000,,,,25000,,19971,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,151292404,,,,151292404,,64267083,,,0
+H5,2018,2018,2018,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,67487285,,,,,,15584540,,,6
+H5,2018,2018,2018,4,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,96456,,,,,,87638,,,6
+H5,2018,2018,2018,4,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,15226415,,,,15226415,,8456456,,,0
+H5,2018,2018,2018,4,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1326442,,,,1326442,,470408,,,0
+H5,2018,2018,2018,4,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,808503,,,,808503,,131694,,,0
+H5,2018,2018,2018,4,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,7880961,,,,7880961,,5139683,,,6
+H5,2018,2018,2018,4,0,2,Export,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,822218,,,,822218,,339500,,,6
+H5,2018,2018,2018,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2566736,,,,2566736,,933012,,,0
+H5,2018,2018,2018,4,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,6809176,,,,6809176,,4471637,,,0
+H5,2018,2018,2018,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,20296652,,,,20296652,,9543860,,,0
+H5,2018,2018,2018,4,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,11944276,,,,11944276,,4084815,,,0
+H5,2018,2018,2018,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,55781283,,,,55781283,,11355887,,,0
+H5,2018,2018,2018,4,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,34333627,,,,34333627,,10795465,,,0
+H5,2018,2018,2018,4,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,13671829,,,,13671829,,5720852,,,6
+H5,2018,2018,2018,4,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,10569031,,,,10569031,,4834436,,,6
+H5,2018,2018,2018,4,0,3,Re-Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,11138,,,,11138,,1388,,,0
+H5,2018,2018,2018,4,0,4,Re-Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,77191,,,,77191,,33955,,,0
+H5,2018,2018,2018,4,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,68221,,,0
+H5,2018,2018,2018,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,82068,,,,82073,,60564,,,0
+H5,2018,2018,2018,4,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,149206,,,,149206,,44241,,,0
+H5,2018,2018,2018,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,872530652,,,,872530652,,183206795,,,0
+H5,2018,2018,2018,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,46114685,,26035892,,,6
+H5,2018,2018,2018,4,0,2,Export,462,Maldives,MDV,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,188690,,,,188690,,48579,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,14665,,,,14665,,27436,,,6
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,3769532,,,,3769532,,1413128,,,0
+H5,2018,2018,2018,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,10500,,,,6669,,18033,,,0
+H5,2018,2018,2018,4,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1822585,,,,1376031,,673743,,,0
+H5,2018,2018,2018,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,429192961,,,,429192961,,192755263,,,0
+H5,2018,2018,2018,4,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,60824002,,,,60824002,,30992781,,,0
+H5,2018,2018,2018,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,58000,,,,58000,,16240,,,0
+H5,2018,2018,2018,4,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,298000,,,,298000,,64240,,,0
+H5,2018,2018,2018,4,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,27379,,,,27379,,9766,,,0
+H5,2018,2018,2018,4,0,2,Export,499,Montenegro,MNE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,346009,,,,346009,,87858,,,0
+H5,2018,2018,2018,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,9654129,,,,9654129,,4292359,,,0
+H5,2018,2018,2018,4,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4232721,,,,4232721,,2744150,,,0
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,801695,,,,1098665,,518141,,,6
+H5,2018,2018,2018,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,662024,,,,1495102,,220922,,,0
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,9403528,,,,,,3483666,,,6
+H5,2018,2018,2018,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1599659,,,,1599659,,975841,,,0
+H5,2018,2018,2018,4,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,236229,,,,236229,,139791,,,6
+H5,2018,2018,2018,4,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,748125,,,6
+H5,2018,2018,2018,4,0,3,Re-Export,516,Namibia,NAM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,170902,,,0
+H5,2018,2018,2018,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,555419225,,,,555419225,,194158664,,,0
+H5,2018,2018,2018,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,341791027,,,,341791027,,162213681,,,0
+H5,2018,2018,2018,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,6616704,,,,6616704,,4706790,,,0
+H5,2018,2018,2018,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,36776506,,,,36776506,,6001657,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,250481,,,,250481,,45746,,,0
+H5,2018,2018,2018,4,0,4,Re-Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,77770,,,,77770,,24947,,,0
+H5,2018,2018,2018,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1400708,,,,1400708,,657939,,,0
+H5,2018,2018,2018,4,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,10810286,,,,10810286,,5751630,,,0
+H5,2018,2018,2018,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,6810,,,,6810,,6968,,,0
+H5,2018,2018,2018,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,25000,,,,25000,,1274,,,0
+H5,2018,2018,2018,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2073333,,,,2073333,,1501473,,,6
+H5,2018,2018,2018,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,57126938,,,,57126938,,19595684,,,0
+H5,2018,2018,2018,4,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,66283,,,,66283,,6168,,,0
+H5,2018,2018,2018,4,0,2,Export,585,Palau,PLW,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,92680,,,,92680,,2916,,,0
+H5,2018,2018,2018,4,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,97810978,,,,97810978,,22318238,,,0
+H5,2018,2018,2018,4,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,16819441,,,,16819441,,11366857,,,0
+H5,2018,2018,2018,4,0,4,Re-Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,6898968,,,,6898968,,1853763,,,0
+H5,2018,2018,2018,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1941414,,,,1941414,,872636,,,6
+H5,2018,2018,2018,4,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1932877,,,,1932877,,1352787,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,7115834,,,,7115834,,3182240,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,273652,,,,273652,,504034,,,0
+H5,2018,2018,2018,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,165372821,,,,165372821,,78946833,,,6
+H5,2018,2018,2018,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,158266134,,,,158266134,,71549697,,,6
+H5,2018,2018,2018,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,111185998,,,,111185998,,33314702,,,6
+H5,2018,2018,2018,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,48365374,,,,48365374,,20964573,,,6
+H5,2018,2018,2018,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,84931746,,,,84931746,,41511307,,,6
+H5,2018,2018,2018,4,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,29290073,,,,,,13985817,,,6
+H5,2018,2018,2018,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,24250832,,,,24250832,,20279607,,,6
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,24738665,,,,24738665,,6221288,,,6
+H5,2018,2018,2018,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,174947,,,,174947,,187929,,,0
+H5,2018,2018,2018,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,150932,,,,150932,,10392,,,6
+H5,2018,2018,2018,4,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,100,,,,100,,5,,,0
+H5,2018,2018,2018,4,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,18168016,,,,18168016,,4674248,,,6
+H5,2018,2018,2018,4,0,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,11420650,,,,11420650,,4314293,,,0
+H5,2018,2018,2018,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,193040513,,,,193040513,,68918429,,,0
+H5,2018,2018,2018,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,3223253,,,,3223253,,4187322,,,6
+H5,2018,2018,2018,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,9049266,,,,9049266,,3487094,,,6
+H5,2018,2018,2018,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,44125540,,,,44125540,,19089938,,,0
+H5,2018,2018,2018,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,,,8614237,,,6
+H5,2018,2018,2018,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,36351427,,,,36351427,,19759879,,,0
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,190966516,,,,190966516,,108091696,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,196690085,,,,196690085,,78204755,,,6
+H5,2018,2018,2018,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,86398027,,,,86398027,,25621382,,,6
+H5,2018,2018,2018,4,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,122172147,,,,,,36928366,,,6
+H5,2018,2018,2018,4,0,4,Re-Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,64593,,,,64593,,6006,,,0
+H5,2018,2018,2018,4,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,18074903,,,,18074903,,4915279,,,0
+H5,2018,2018,2018,4,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,11389890,,,,11389890,,4927911,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,51680,,,,51680,,9968,,,0
+H5,2018,2018,2018,4,0,4,Re-Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,420734,,,,420734,,83225,,,0
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,3207007,,,,3207007,,2177076,,,0
+H5,2018,2018,2018,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,3487903,,,,3487903,,705489,,,0
+H5,2018,2018,2018,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,138594510,,,,,,67093187,,,6
+H5,2018,2018,2018,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,157450803,,,,,,58031873,,,6
+H5,2018,2018,2018,4,0,4,Re-Import,724,Spain,ESP,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,135421,,,,135421,,48996,,,0
+H5,2018,2018,2018,4,0,1,Import,729,Sudan,SDN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,159418,,,,159418,,226384,,,0
+H5,2018,2018,2018,4,0,2,Export,729,Sudan,SDN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,11442946,,,,11442946,,3580263,,,0
+H5,2018,2018,2018,4,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,103871,,,,103871,,50945,,,0
+H5,2018,2018,2018,4,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1308890,,,,1308890,,264450,,,0
+H5,2018,2018,2018,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,,,12163345,,,6
+H5,2018,2018,2018,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,79855924,,,,79855924,,16924047,,,6
+H5,2018,2018,2018,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,53803855,,,,53803855,,7108752,,,6
+H5,2018,2018,2018,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,89775318,,,,,,19159856,,,6
+H5,2018,2018,2018,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,552726632,,,,552726632,,72912665,,,6
+H5,2018,2018,2018,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,190619833,,,,190619833,,121700076,,,6
+H5,2018,2018,2018,4,0,3,Re-Export,764,Thailand,THA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2613449,,,,2613449,,337373,,,0
+H5,2018,2018,2018,4,0,4,Re-Import,764,Thailand,THA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2763012,,,,2763012,,385412,,,0
+H5,2018,2018,2018,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1796656,,,,1796656,,1344571,,,0
+H5,2018,2018,2018,4,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,8000,,,,8000,,648,,,0
+H5,2018,2018,2018,4,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4804647,,,,4804647,,4418482,,,6
+H5,2018,2018,2018,4,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,4872003,,,6
+H5,2018,2018,2018,4,0,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,587638,,,0
+H5,2018,2018,2018,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,6061293,,,,6061293,,1563492,,,0
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,24099326,,,,24099326,,16338729,,,0
+H5,2018,2018,2018,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,436909935,,,,436909935,,116431093,,,0
+H5,2018,2018,2018,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,15643011,,,,15643011,,17307769,,,0
+H5,2018,2018,2018,4,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,3392535,,,,3391671,,395475,,,0
+H5,2018,2018,2018,4,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4709649,,,,4685654,,2616112,,,0
+H5,2018,2018,2018,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,3797051,,1705289,,,0
+H5,2018,2018,2018,4,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,5928547,,,,5928547,,2884448,,,0
+H5,2018,2018,2018,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,115939203,,,,115939203,,68399295,,,6
+H5,2018,2018,2018,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,639795439,,,,,,152998766,,,6
+H5,2018,2018,2018,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4023023,,,,4023023,,3278863,,,0
+H5,2018,2018,2018,4,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,11510642,,,,,,289753,,,6
+H5,2018,2018,2018,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,442291077,,,,442291077,,268964558,,,6
+H5,2018,2018,2018,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,446472875,,,6
+H5,2018,2018,2018,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,1960509,,,0
+H5,2018,2018,2018,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,,,250395,,,6
+H5,2018,2018,2018,4,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,736395,,,,736395,,240664,,,0
+H5,2018,2018,2018,4,0,4,Re-Import,858,Uruguay,URY,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,79943,,,,79943,,21886,,,0
+H5,2018,2018,2018,4,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,29864570,,,,29864570,,5752650,,,0
+H5,2018,2018,2018,4,0,2,Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,178850,,,,178850,,56585,,,0
+H5,2018,2018,2018,4,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,,,1639125,,,6
+H5,2018,2018,2018,4,0,2,Export,887,Yemen,YEM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,720000,,,,720000,,10260,,,0
+H5,2018,2018,2018,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,27635,,,,27635,,25220,,,0
+H5,2018,2018,2018,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1921036,,,,1921036,,302879,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,115969109,,,4
+H4,2018,2018,2018,2,0,2,Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,45561,,,4
+H4,2018,2018,2018,2,0,3,Re-Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1757,,,0
+H4,2018,2018,2018,2,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,143567713,,,4
+H4,2018,2018,2018,2,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,90307750,,,4
+H4,2018,2018,2018,2,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14665061,,,4
+H4,2018,2018,2018,2,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,50364,,,4
+H4,2018,2018,2018,2,0,3,Re-Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,816,,,0
+H4,2018,2018,2018,2,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,21831009,,,4
+H4,2018,2018,2018,2,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1419471,,,0
+H4,2018,2018,2018,2,0,3,Re-Export,108,Burundi,BDI,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,38619,,,0
+H4,2018,2018,2018,2,0,4,Re-Import,108,Burundi,BDI,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11110,,,0
+H4,2018,2018,2018,2,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,29887463,,,4
+H4,2018,2018,2018,2,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5819935,,,4
+H4,2018,2018,2018,2,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,29673,,,0
+H4,2018,2018,2018,2,0,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,240028593,,,4
+H4,2018,2018,2018,2,0,2,Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,722826,,,0
+H4,2018,2018,2018,2,0,3,Re-Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,197852,,,0
+H4,2018,2018,2018,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,39239620,,,4
+H4,2018,2018,2018,2,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1473391,,,0
+H4,2018,2018,2018,2,0,3,Re-Export,204,Benin,BEN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,407716,,,0
+H4,2018,2018,2018,2,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,589971032,,,4
+H4,2018,2018,2018,2,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3176258,,,0
+H4,2018,2018,2018,2,0,3,Re-Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,209705,,,0
+H4,2018,2018,2018,2,0,4,Re-Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,71659,,,0
+H4,2018,2018,2018,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,298507159,,,4
+H4,2018,2018,2018,2,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25029344,,,0
+H4,2018,2018,2018,2,0,3,Re-Export,268,Georgia,GEO,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10108833,,,0
+H4,2018,2018,2018,2,0,4,Re-Import,268,Georgia,GEO,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,29760,,,0
+H4,2018,2018,2018,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,4131680,,,4
+H4,2018,2018,2018,2,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2748,,,0
+H4,2018,2018,2018,2,0,3,Re-Export,270,Gambia,GMB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1089,,,0
+H4,2018,2018,2018,2,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,255002699,,,4
+H4,2018,2018,2018,2,0,2,Export,275,State of Palestine,PSE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,88094776,,,4
+H4,2018,2018,2018,2,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,769488180,,,4
+H4,2018,2018,2018,2,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,117674936,,,0
+H4,2018,2018,2018,2,0,3,Re-Export,404,Kenya,KEN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4484190,,,0
+H4,2018,2018,2018,2,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,120023640,,,4
+H4,2018,2018,2018,2,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6875462,,,0
+H4,2018,2018,2018,2,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,105911692,,,4
+H4,2018,2018,2018,2,0,2,Export,478,Mauritania,MRT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,373573,,,0
+H4,2018,2018,2018,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,25297502171,,,0
+H4,2018,2018,2018,2,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9544982070,,,4
+H4,2018,2018,2018,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,273609561,,,4
+H4,2018,2018,2018,2,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,40146747,,,4
+H4,2018,2018,2018,2,0,3,Re-Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11730184,,,0
+H4,2018,2018,2018,2,0,4,Re-Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,122401,,,0
+H4,2018,2018,2018,2,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,33457104,,,0
+H4,2018,2018,2018,2,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,295014,,,0
+H4,2018,2018,2018,2,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1632586395,,,4
+H4,2018,2018,2018,2,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,84203942,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3790735995,,,4
+H4,2018,2018,2018,2,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,911768169,,,4
+H4,2018,2018,2018,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,738868920,,,4
+H4,2018,2018,2018,2,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2954904796,,,0
+H4,2018,2018,2018,2,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23300516,,,4
+H4,2018,2018,2018,2,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,601157,,,0
+H4,2018,2018,2018,2,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3087754880,,,4
+H4,2018,2018,2018,2,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,20905665041,,,4
+H4,2018,2018,2018,2,0,3,Re-Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,68127384,,,0
+H4,2018,2018,2018,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,226796735,,,4
+H4,2018,2018,2018,2,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,42181800,,,0
+H4,2018,2018,2018,2,0,1,Import,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,56393493,,,4
+H4,2018,2018,2018,2,0,2,Export,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,384961,,,4
+H4,2018,2018,2018,2,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,2701010974,,,4
+H4,2018,2018,2018,2,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,610120936,,,4
+H4,2018,2018,2018,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,3924923508,,,4
+H4,2018,2018,2018,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1801887098,,,4
+H4,2018,2018,2018,2,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,111420078,,,4
+H4,2018,2018,2018,2,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4150805,,,0
+H4,2018,2018,2018,2,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,11291587,,,4
+H4,2018,2018,2018,2,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1421911,,,4
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,26752726,,,,26752726,,19233491,,,0
+H4,2018,2018,2018,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1116,,,,1116,,426,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,645503,,,,645503,,394117,,,6
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,808,,,,1346,,108,,,0
+H4,2018,2018,2018,4,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,97300,,,,97300,,14137,,,0
+H4,2018,2018,2018,4,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1165,,,,1165,,2649,,,0
+H4,2018,2018,2018,4,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,142560,,,,142560,,12843,,,0
+H4,2018,2018,2018,4,0,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,472935,,,,472935,,149089,,,0
+H4,2018,2018,2018,4,0,2,Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,22000,,,,22000,,558,,,0
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2460,,,,2460,,1476,,,0
+H4,2018,2018,2018,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,43000,,,,43000,,2166,,,0
+H4,2018,2018,2018,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1398148,,,,1398148,,1017820,,,0
+H4,2018,2018,2018,4,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,3826186,,,,3826186,,1961725,,,0
+H4,2018,2018,2018,4,0,3,Re-Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,340776,,,,340776,,179054,,,0
+H4,2018,2018,2018,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,838556,,,,838556,,808531,,,0
+H4,2018,2018,2018,4,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,795866,,,,795866,,162727,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,78840,,,,81253,,126086,,,0
+H4,2018,2018,2018,4,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1060677,,,,1060677,,435279,,,6
+H4,2018,2018,2018,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2785691,,,,2785691,,1706091,,,0
+H4,2018,2018,2018,4,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,5230138,,,,5230138,,2364841,,,0
+H4,2018,2018,2018,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,59789,,,,59789,,67049,,,0
+H4,2018,2018,2018,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,117745,,,,117745,,25365,,,0
+H4,2018,2018,2018,4,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,126000,,,,126000,,11336,,,0
+H4,2018,2018,2018,4,0,2,Export,478,Mauritania,MRT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1726940,,,,1726940,,332373,,,0
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,,,19945345,,,0
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,149542644,,,6
+H4,2018,2018,2018,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,442714,,,,442714,,145760,,,0
+H4,2018,2018,2018,4,0,3,Re-Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,55499,,,,55499,,8748,,,0
+H4,2018,2018,2018,4,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1,,,,1,,223,,,0
+H4,2018,2018,2018,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,16612038,,,,16612038,,16028052,,,0
+H4,2018,2018,2018,4,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2164750,,,,2164750,,911284,,,0
+H4,2018,2018,2018,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,11760790,,6207891,,,6
+H4,2018,2018,2018,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,65116504,,,,65116504,,39570525,,,6
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,309290,,,,309290,,1205460,,,0
+H4,2018,2018,2018,4,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,219338,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,13144,,,,13144,,25770,,,0
+H4,2018,2018,2018,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,45155,,,,45155,,6336,,,0
+H4,2018,2018,2018,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,22662883,,,,22662883,,10636726,,,0
+H4,2018,2018,2018,4,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,46410052,,,,,,16382511,,,6
+H4,2018,2018,2018,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1974896,,,,1974896,,1732479,,,0
+H4,2018,2018,2018,4,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2496020,,,,2496020,,595243,,,0
+H4,2018,2018,2018,4,0,1,Import,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,778614,,,,778614,,1344062,,,0
+H4,2018,2018,2018,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,53425504,,,,53425504,,18652776,,,0
+H4,2018,2018,2018,4,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1253186,,,,1253186,,606966,,,0
+H4,2018,2018,2018,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,19889853,,,,19889853,,5918763,,,0
+H4,2018,2018,2018,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2999,,,,2999,,1598,,,0
+H4,2018,2018,2018,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,104038,,,,104038,,23538,,,0
+H4,2018,2018,2018,4,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1698290,,,,1698290,,40020,,,0
+H4,2018,2018,2018,4,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,8271,,,,8271,,9881,,,0
+H4,2018,2018,2018,4,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,455,,,,455,,135,,,0
+H3,2018,2018,2018,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19451634,,,4
+H3,2018,2018,2018,2,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,95484,,,0
+H3,2018,2018,2018,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,88789,,,0
+H3,2018,2018,2018,2,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,65447372,,,4
+H3,2018,2018,2018,2,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,4624195,,,4
+H3,2018,2018,2018,2,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,111316,,,0
+H3,2018,2018,2018,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10125118,,,4
+H3,2018,2018,2018,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,582411,,,0
+H3,2018,2018,2018,2,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,111349,,,0
+H3,2018,2018,2018,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3245235,,,4
+H3,2018,2018,2018,2,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5097,,,0
+H3,2018,2018,2018,2,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,59727508,,,0
+H3,2018,2018,2018,2,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3047091,,,0
+H3,2018,2018,2018,2,0,3,Re-Export,740,Suriname,SUR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,130244,,,0
+H3,2018,2018,2018,4,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics.",8,Weight in kilograms,16081,,,,16081,,5185,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics.",8,Weight in kilograms,367,,,,367,,3265,,,0
+H3,2018,2018,2018,4,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics.",8,Weight in kilograms,650,,,,650,,405,,,6
+H3,2018,2018,2018,4,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics.",8,Weight in kilograms,206500,,,,206500,,44444,,,0
+H3,2018,2018,2018,4,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics.",8,Weight in kilograms,184000,,,,184000,,38888,,,0
+H3,2018,2018,2018,4,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics.",8,Weight in kilograms,1040,,,,1040,,4222,,,0
+H3,2018,2018,2018,4,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics.",8,Weight in kilograms,142,,,,142,,160,,,0
+H2,2018,2018,2018,2,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,56697841,,,4
+H2,2018,2018,2018,2,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5545622,,,4
+H2,2018,2018,2018,2,0,3,Re-Export,52,Barbados,BRB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,972298,,,0
+H2,2018,2018,2018,2,0,1,Import,434,Libya,LBY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,326265940,,,0
+H2,2018,2018,2018,2,0,2,Export,434,Libya,LBY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1275171,,,0
+H2,2018,2018,2018,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics.",8,Weight in kilograms,2066,,,,2066,,11339,,,0
+H2,2018,2018,2018,4,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics.",8,Weight in kilograms,772446,,,,772446,,134558,,,0
+H2,2018,2018,2018,4,0,2,Export,434,Libya,LBY,0,World,WLD,,,,,,,,3915,"Waste, parings and scrap, of plastics.",8,Weight in kilograms,3317470,,,,3317470,,542484,,,0

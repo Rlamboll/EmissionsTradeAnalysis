@@ -1,0 +1,60 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,4,0,1,Import,24,Angola,AGO,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,69970,,,,69970,,60388,,,0
+H5,2018,2018,2018,4,0,2,Export,24,Angola,AGO,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,95205,,,,95205,,115340,,,6
+H5,2018,2018,2018,4,0,2,Export,36,Australia,AUS,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,127,,,,127,,3356,,,0
+H5,2018,2018,2018,4,0,1,Import,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,570,,,,570,,2073,,,0
+H5,2018,2018,2018,4,0,1,Import,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,135340,,,,135340,,203030,,,0
+H5,2018,2018,2018,4,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1962,,,,1962,,544,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1355259,,,,1399267,,2116685,,,6
+H5,2018,2018,2018,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,304134,,,,635166,,115985,,,6
+H5,2018,2018,2018,4,0,2,Export,76,Brazil,BRA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1,,,,1,,10,,,0
+H5,2018,2018,2018,4,0,2,Export,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,53050,,,,53050,,35759,,,0
+H5,2018,2018,2018,4,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,759610,,,,759610,,312375,,,0
+H5,2018,2018,2018,4,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,126488,,,,126488,,120204,,,0
+H5,2018,2018,2018,4,0,1,Import,174,Comoros,COM,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,250,,,,250,,254,,,0
+H5,2018,2018,2018,4,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,21243,,,,21243,,7036,,,6
+H5,2018,2018,2018,4,0,2,Export,276,Germany,DEU,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,535792,,,,535792,,258896,,,0
+H5,2018,2018,2018,4,0,2,Export,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,112,,,,112,,83,,,0
+H5,2018,2018,2018,4,0,1,Import,344,"China, Hong Kong SAR",HKG,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1125458,,,,1125458,,448830,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,103570,,,,103570,,46607,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,22000,,,,22000,,19800,,,0
+H5,2018,2018,2018,4,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,40878,,,,40878,,25000,,,6
+H5,2018,2018,2018,4,0,2,Export,381,Italy,ITA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,39940,,,,39940,,3693,,,0
+H5,2018,2018,2018,4,0,2,Export,392,Japan,JPN,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1649305,,,,1649305,,1240535,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,58817,,,,58817,,12352,,,0
+H5,2018,2018,2018,4,0,1,Import,450,Madagascar,MDG,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1881,,,,1881,,13282,,,0
+H5,2018,2018,2018,4,0,1,Import,458,Malaysia,MYS,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,773221,,,,773221,,240988,,,0
+H5,2018,2018,2018,4,0,2,Export,480,Mauritius,MUS,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1284219,,,,916080,,479169,,,0
+H5,2018,2018,2018,4,0,1,Import,490,"Other Asia, nes",,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,137868,,,,137868,,41638,,,0
+H5,2018,2018,2018,4,0,2,Export,490,"Other Asia, nes",,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,395455,,,,395455,,120719,,,0
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,51560,,,,103820,,62452,,,6
+H5,2018,2018,2018,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,122668,,,,277398,,40896,,,0
+H5,2018,2018,2018,4,0,1,Import,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,232765,,,,232765,,137124,,,6
+H5,2018,2018,2018,4,0,2,Export,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,746878,,,6
+H5,2018,2018,2018,4,0,3,Re-Export,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",1,No Quantity,0,,,,0,,170902,,,0
+H5,2018,2018,2018,4,0,2,Export,528,Netherlands,NLD,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,135545,,,,135545,,38223,,,0
+H5,2018,2018,2018,4,0,1,Import,586,Pakistan,PAK,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,152700,,,,152700,,34760,,,0
+H5,2018,2018,2018,4,0,1,Import,699,India,IND,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,26000,,,,26000,,12384,,,0
+H5,2018,2018,2018,4,0,2,Export,699,India,IND,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,47,,,,47,,318,,,0
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,102730,,,,102730,,62827,,,6
+H5,2018,2018,2018,4,0,1,Import,710,South Africa,ZAF,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,420734,,,,420734,,83225,,,0
+H5,2018,2018,2018,4,0,4,Re-Import,710,South Africa,ZAF,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,420734,,,,420734,,83225,,,0
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,976463,,,,976463,,1031250,,,0
+H5,2018,2018,2018,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,3467903,,,,3467903,,704070,,,0
+H5,2018,2018,2018,4,0,1,Import,748,Eswatini,SWZ,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,103871,,,,103871,,50945,,,0
+H5,2018,2018,2018,4,0,2,Export,748,Eswatini,SWZ,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,811650,,,,811650,,175940,,,0
+H5,2018,2018,2018,4,0,1,Import,764,Thailand,THA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,82590,,,,82590,,8364,,,0
+H5,2018,2018,2018,4,0,2,Export,764,Thailand,THA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4,,,,4,,468,,,0
+H5,2018,2018,2018,4,0,1,Import,792,Turkey,TUR,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,84181,,,,84181,,37143,,,0
+H5,2018,2018,2018,4,0,2,Export,800,Uganda,UGA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,46320,,,,46320,,31646,,,0
+H5,2018,2018,2018,4,0,1,Import,834,United Rep. of Tanzania,TZA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,775,,,,775,,7900,,,0
+H5,2018,2018,2018,4,0,2,Export,834,United Rep. of Tanzania,TZA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1077628,,,,1077628,,38411,,,0
+H5,2018,2018,2018,4,0,2,Export,842,USA,USA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,231073,,,,231073,,110600,,,0
+H5,2018,2018,2018,4,0,1,Import,894,Zambia,ZMB,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,2615,,,,2615,,15681,,,0
+H5,2018,2018,2018,4,0,2,Export,894,Zambia,ZMB,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,1725036,,,,1725036,,271647,,,0
+H4,2018,2018,2018,4,0,1,Import,404,Kenya,KEN,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,177,,,,177,,1271,,,0
+H4,2018,2018,2018,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,4055,,,,4055,,17998,,,0
+H4,2018,2018,2018,4,0,2,Export,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,15000,,,,15000,,4130,,,0
+H4,2018,2018,2018,4,0,1,Import,566,Nigeria,NGA,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,430,,,,430,,3922,,,0
+H4,2018,2018,2018,4,0,2,Export,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,669715,,,,669715,,150972,,,0
+H4,2018,2018,2018,4,0,1,Import,694,Sierra Leone,SLE,710,South Africa,ZAF,,,,,,,,3915,"Waste, parings and scrap, of plastics",8,Weight in kilograms,166,,,,166,,131,,,0

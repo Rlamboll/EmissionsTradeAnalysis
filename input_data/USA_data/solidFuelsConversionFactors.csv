@@ -1,0 +1,18 @@
+,mmBtu per short ton,kg CO2 per mmBtu,g CH4 per mmBtu,g N2O per mmBtu,kg CO2 per short ton,g CH4 per short ton,g N2O per short ton
+Anthracite Coal,25.09,103.69,11,1.6,2602,276,40
+Bituminous Coal,24.93,93.28,11,1.6,2325,274,40
+Sub-bituminous Coal,17.25,97.17,11,1.6,1676,190,28
+Lignite Coal,14.21,97.72,11,1.6,1389,156,23
+Mixed Coal (Commercial Sector),21.39,94.27,11,1.6,2016,235,34
+Mixed Coal (Electric Power Sector),19.73,95.52,11,1.6,1885,217,32
+Mixed Coal (Industrial Coking),26.28,93.9,11,1.6,2468,289,42
+Mixed Coal (Industrial Sector),22.35,94.67,11,1.6,2116,246,36
+Coal Coke,24.8,113.67,11,1.6,2819,273,40
+Municipal Solid Waste,9.95,90.7,32,4.2,902,318,42
+Petroleum Coke (Solid),30,102.41,32,4.2,3072,960,126
+Plastics,38,75,32,4.2,2850,1216,160
+Tires,28,85.97,32,4.2,2407,896,118
+Agricultural Byproducts,8.25,118.17,32,4.2,975,264,35
+Peat,8,111.84,32,4.2,895,256,34
+Solid Byproducts,10.39,105.51,32,4.2,1096,332,44
+Wood and Wood Residuals,17.48,93.8,7.2,3.6,1640,126,63
